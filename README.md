@@ -1,3 +1,3 @@
 # my-first-website
 
-This is my first website, which I will make in the near future.
+This is my first website, which I have done. Feel free to use on your own!
