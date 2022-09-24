@@ -89,7 +89,7 @@ a{
     text-align: center;
     width: 40%;
 }
-#blockquote-quote-person{
+#quote{
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -101,6 +101,7 @@ a{
 blockquote{
     font-size: 36px;
     font-style: italic;
+    text-align: justify;
     width: 50%;
     color: #1f2937;
 }
